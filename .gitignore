@@ -1,0 +1,5 @@
+/data/raw_tweets/*
+/data/tweets/*
+/data/txt_tweets/*
+/node_modules
+/config/keys.js
